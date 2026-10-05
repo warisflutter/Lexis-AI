@@ -16,4 +16,4 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 ## App Screenshots
 
-![onboarding 1 (lexis)](onboarding 1(lexis).JPG
+![Onboarding 1](onboarding%201%20%28lexis%29.JPG)
