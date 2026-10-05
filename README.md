@@ -16,37 +16,37 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 ## App Screenshots
 
-### Onboarding
-![Onboarding 1](onboarding%201%20%28lexis%29.JPG)
-![Onboarding 2](onboarding%202%20%28lexis%29.JPG)
-![Onboarding 3](Onboarding%203%20%28lexis%29.JPG)
+<table>
+<tr>
+<td><img src="onboarding%201%20%28lexis%29.JPG" width="250"></td>
+<td><img src="onboarding%202%20%28lexis%29.JPG" width="250"></td>
+<td><img src="Onboarding%203%20%28lexis%29.JPG" width="250"></td>
+</tr>
 
-### Authentication
-![Login](Login%20%28lexis%29.JPG)
+<tr>
+<td><img src="Login%20%28lexis%29.JPG" width="250"></td>
+<td><img src="signup%20%28lexis%29.JPG" width="250"></td>
+<td><img src="Dashboard.JPG" width="250"></td>
+</tr>
 
-### Dashboard
-![Dashboard](Dashboard.JPG)
+<tr>
+<td><img src="Find%20Lawyers%20%28lexis%29.JPG" width="250"></td>
+<td><img src="Hire%20Lawyer%20%28lexis%29.JPG" width="250"></td>
+<td><img src="Cases%20%28lexis%29.JPG" width="250"></td>
+</tr>
 
-### Find Lawyer
-![Find Lawyers](Find%20Lawyers%20%28lexis%29.JPG)
+<tr>
+<td><img src="Case%20Preview%20%28lexis%29.JPG" width="250"></td>
+<td><img src="Chat%20System%20%28lexis%29.JPG" width="250"></td>
+<td><img src="Chat%20User%20%28lexis%29.JPG" width="250"></td>
+</tr>
 
-### Hire Lawyer
-![Hire Lawyer](Hire%20Lawyer%20%28lexis%29.JPG)
-
-### Cases
-![Cases](Cases%20%28lexis%29.JPG)
-![Case Preview](Case%20Preview%20%28lexis%29.JPG)
-
-### Chat
-![Chat System](Chat%20System%20%28lexis%29.JPG)
-![Chat User](Chat%20User%20%28lexis%29.JPG)
-
-### Documents
-![Documents](Documents%20%28lexis%29.JPG)
-
-### Profile & Settings
-![Profile](Profile%20%28lexis%29.JPG)
-![Settings](Setting%20%28lexis%29.JPG)
+<tr>
+<td><img src="Documents%20%28lexis%29.JPG" width="250"></td>
+<td><img src="Profile%20%28lexis%29.JPG" width="250"></td>
+<td><img src="Setting%20%28lexis%29.JPG" width="250"></td>
+</tr>
+</table>
 
 ### Sign Up
 ![Sign Up](signup%20%28lexis%29.JPG)
