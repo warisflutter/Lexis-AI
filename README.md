@@ -18,33 +18,33 @@ samples, guidance on mobile development, and a full API reference.
 
 <table>
 <tr>
-<td><img src="onboarding%201%20%28lexis%29.JPG" width="250"></td>
-<td><img src="onboarding%202%20%28lexis%29.JPG" width="250"></td>
-<td><img src="Onboarding%203%20%28lexis%29.JPG" width="250"></td>
+<td align="center"><b>Onboarding 1</b><br><img src="onboarding%201%20%28lexis%29.JPG" width="250"></td>
+<td align="center"><b>Onboarding 2</b><br><img src="onboarding%202%20%28lexis%29.JPG" width="250"></td>
+<td align="center"><b>Onboarding 3</b><br><img src="Onboarding%203%20%28lexis%29.JPG" width="250"></td>
 </tr>
 
 <tr>
-<td><img src="Login%20%28lexis%29.JPG" width="250"></td>
-<td><img src="signup%20%28lexis%29.JPG" width="250"></td>
-<td><img src="Dashboard.JPG" width="250"></td>
+<td align="center"><b>Login</b><br><img src="Login%20%28lexis%29.JPG" width="250"></td>
+<td align="center"><b>Sign Up</b><br><img src="signup%20%28lexis%29.JPG" width="250"></td>
+<td align="center"><b>Dashboard</b><br><img src="Dashboard.JPG" width="250"></td>
 </tr>
 
 <tr>
-<td><img src="Find%20Lawyers%20%28lexis%29.JPG" width="250"></td>
-<td><img src="Hire%20Lawyer%20%28lexis%29.JPG" width="250"></td>
-<td><img src="Cases%20%28lexis%29.JPG" width="250"></td>
+<td align="center"><b>Find Lawyers</b><br><img src="Find%20Lawyers%20%28lexis%29.JPG" width="250"></td>
+<td align="center"><b>Hire Lawyer</b><br><img src="Hire%20Lawyer%20%28lexis%29.JPG" width="250"></td>
+<td align="center"><b>Cases</b><br><img src="Cases%20%28lexis%29.JPG" width="250"></td>
 </tr>
 
 <tr>
-<td><img src="Case%20Preview%20%28lexis%29.JPG" width="250"></td>
-<td><img src="Chat%20System%20%28lexis%29.JPG" width="250"></td>
-<td><img src="Chat%20User%20%28lexis%29.JPG" width="250"></td>
+<td align="center"><b>Case Preview</b><br><img src="Case%20Preview%20%28lexis%29.JPG" width="250"></td>
+<td align="center"><b>Chat System</b><br><img src="Chat%20System%20%28lexis%29.JPG" width="250"></td>
+<td align="center"><b>Chat User</b><br><img src="Chat%20User%20%28lexis%29.JPG" width="250"></td>
 </tr>
 
 <tr>
-<td><img src="Documents%20%28lexis%29.JPG" width="250"></td>
-<td><img src="Profile%20%28lexis%29.JPG" width="250"></td>
-<td><img src="Setting%20%28lexis%29.JPG" width="250"></td>
+<td align="center"><b>Documents</b><br><img src="Documents%20%28lexis%29.JPG" width="250"></td>
+<td align="center"><b>Profile</b><br><img src="Profile%20%28lexis%29.JPG" width="250"></td>
+<td align="center"><b>Settings</b><br><img src="Setting%20%28lexis%29.JPG" width="250"></td>
 </tr>
 </table>
 
