@@ -37,7 +37,6 @@ samples, guidance on mobile development, and a full API reference.
 
 <tr>
 <td align="center"><b>Case Preview</b><br><img src="Case%20Preview%20%28lexis%29.JPG" width="250"></td>
-<td align="center"><b>Chat System</b><br><img src="Chat%20System%20%28lexis%29.JPG" width="250"></td>
 <td align="center"><b>Chat User</b><br><img src="Chat%20User%20%28lexis%29.JPG" width="250"></td>
 </tr>
 
