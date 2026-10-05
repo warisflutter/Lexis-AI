@@ -1,19 +1,39 @@
-# lexis_ai
+# ⚖️ Lexis AI
 
-A new Flutter project.
+### AI-Powered Legal Assistance & Lawyer Consultation App
 
-## Getting Started
+**Lexis AI** is a modern Flutter-based legal assistance application focused on providing a clean and user-friendly experience for clients and lawyers.
 
-This project is a starting point for a Flutter application.
+This project currently focuses on **UI/UX design and frontend implementation**, with backend and Firebase integration planned for future development.
 
-A few resources to get you started if this is your first Flutter project:
+### ✨ Current Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 👤 Client & Lawyer UI
+- ⚖️ Find & Hire Lawyer UI
+- 📁 Case Management UI
+- 💬 Chat Interface
+- 🤖 AI Legal Assistance UI
+- 📄 Document Management UI
+- 🔔 Notifications UI
+- 👤 Profile & Settings
+- 🎨 Modern Dark-Themed UI
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 🛠️ Technologies
+
+- **Flutter**
+- **Dart**
+- **GetX**
+- **MVC Architecture**
+
+### 🚀 Future Development
+
+- Firebase Authentication
+- Cloud Firestore
+- Firebase Storage
+- Firebase Cloud Messaging
+- Real-time Chat
+- Dynamic Lawyer & Case Data
+- AI Integration
 ## App Screenshots
 
 <table>
