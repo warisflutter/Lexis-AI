@@ -6,26 +6,26 @@
 
 This project currently focuses on **UI/UX design and frontend implementation**, with backend and Firebase integration planned for future development.
 
-### ✨ Current Features
+### Current Features
 
-- 👤 Client & Lawyer UI
-- ⚖️ Find & Hire Lawyer UI
-- 📁 Case Management UI
-- 💬 Chat Interface
-- 🤖 AI Legal Assistance UI
-- 📄 Document Management UI
-- 🔔 Notifications UI
-- 👤 Profile & Settings
-- 🎨 Modern Dark-Themed UI
+-  Client & Lawyer UI
+-  Find & Hire Lawyer UI
+-  Case Management UI
+-  Chat Interface
+-  AI Legal Assistance UI
+-  Document Management UI
+-  Notifications UI
+-  Profile & Settings
+-  Modern Dark-Themed UI
 
-### 🛠️ Technologies
+### Technologies
 
 - **Flutter**
 - **Dart**
 - **GetX**
 - **MVC Architecture**
 
-### 🚀 Future Development
+### Future Development
 
 - Firebase Authentication
 - Cloud Firestore
